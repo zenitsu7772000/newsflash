@@ -1,11 +1,9 @@
 ;;; newsflash.el --- Viral news & magazine reader for Emacs -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2026
-;; Author: You <your@email.com>
 ;; Version: 1.0.0
 ;; Package-Requires: ((emacs "27.1"))
 ;; Keywords: news, rss, magazine, reader, feeds
-;; URL: https://github.com/yourusername/newsflash.el
 ;;
 ;; ─────────────────────────────────────────────
 ;;  Support development:
